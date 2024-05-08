@@ -25,3 +25,4 @@ def get_data_loaders(dataset_name="MNIST", batch_size=64):
     test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False)
 
     return train_loader, test_loader
+# Add data loader utility for image datasets
