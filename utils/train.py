@@ -23,3 +23,4 @@ def train_model(model, train_loader, criterion, optimizer, device, epochs=5):
         print(f"Epoch [{epoch+1}/{epochs}], Loss: {avg_loss:.4f}")
 
     return model
+# Add training script for models
