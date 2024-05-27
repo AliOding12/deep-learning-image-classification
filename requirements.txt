@@ -1,1 +1,2 @@
 # Initial commit: Set up project with README, requirements.txt and .gitignore
+# Update dependencies for compatibility
