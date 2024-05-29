@@ -25,3 +25,4 @@ def train_model(model, train_loader, criterion, optimizer, device, epochs=5):
     return model
 # Add training script for models
 # Improve training script with learning rate scheduling
+# Fix bugs in data loading and training
