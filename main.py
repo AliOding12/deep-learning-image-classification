@@ -85,3 +85,4 @@ for model_name, res in results.items():
 
 # Add main script to orchestrate training and evaluation
 # Refactor main script for better modularity
+# Integrate early stopping in training

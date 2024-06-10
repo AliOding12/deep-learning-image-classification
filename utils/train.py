@@ -26,3 +26,4 @@ def train_model(model, train_loader, criterion, optimizer, device, epochs=5):
 # Add training script for models
 # Improve training script with learning rate scheduling
 # Fix bugs in data loading and training
+# Integrate early stopping in training
