@@ -94,3 +94,4 @@ This project is licensed under the **MIT License**.
 > *"The best way to learn Deep Learning is by building projects!"*
 <!-- Initial commit: Set up project with README, requirements.txt and .gitignore -->
 <!-- Update README with project details and usage -->
+<!-- Final updates to dependencies and documentation -->
